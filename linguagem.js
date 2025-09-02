@@ -6,5 +6,5 @@ function linguagemDosGatosECachorros(animal) {
     else if (animal == 'vaca')
         return 'muuuu'
     else
-        return 'Informe gato ou cachorro'
+        return 'Informe gato ou cachorro ou vaca'
  }
